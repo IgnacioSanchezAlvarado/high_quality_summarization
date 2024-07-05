@@ -2,6 +2,8 @@
 
 This repo contains de code to deploy a **[streamlit application](https://streamlit.io/)** that allows users to upload text documents and create high quality summarization using a generative AI model.
 
+![Alt Text](images/image1.png "app")
+
 ### Deployment
 
 - Clone the repo to your local environment.
